@@ -1,0 +1,2 @@
+# Moodle-Downloader
+Moodleからファイルを一括ダウンロードしGoodnoteへ読み込ませるためのブックマークレット・IOSショートカットです。
