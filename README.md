@@ -2,8 +2,8 @@
 
 Moodleからファイルを一括ダウンロードしGoodnoteへ読み込ませるためのブックマークレット・iosショートカット
 ---
+## こんなことが出来るよ！
 デモンストレーション動画(学内のみ) 
-<iframe src="https://drive.google.com/file/d/1Tm9r3tfMvzOOB6Nm2qSNvi9qU9AQ3q0w/preview" width="640" height="480"></iframe>
 https://drive.google.com/file/d/1Tm9r3tfMvzOOB6Nm2qSNvi9qU9AQ3q0w/view?usp=sharing
 
 ## 概要
