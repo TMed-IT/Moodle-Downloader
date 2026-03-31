@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1ft3RNz4iXLyv77tU0a6j1WTKRyjVUOt1/view?usp=shari
 5. 下段URLを **すべて削除** し、1.でコピーしたものをペースト
 6. 「完了」をタップ
 
-> URL が `javascript:(async()=>{...})();` という形式になっていれば正しく登録されています。
+> URL が `javascript:(async()=>{...})();` という形式になっていれば正しく登録されています
 
 ### 2. iOSショートカットを読み込む
 1. [`MoodleDownloader.shortcut`](/MoodleDownloader.shortcut)を開き → ダウンロード(Rawの2つ右)
