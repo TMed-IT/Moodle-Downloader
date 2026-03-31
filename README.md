@@ -3,7 +3,7 @@
 Moodleからファイルを一括ダウンロードしGoodnoteへ読み込ませるためのブックマークレット・iosショートカット
 ---
 ## こんなことが出来るよ！
-デモンストレーション動画(学内のみ) 
+デモンストレーション動画(学内のみ)
 https://drive.google.com/file/d/1Tm9r3tfMvzOOB6Nm2qSNvi9qU9AQ3q0w/view?usp=sharing
 
 ## 概要
@@ -19,7 +19,7 @@ iOSショートカットを実行
         ↓
 ファイルが順番にダウンロードされ、Zip化
         ↓
-GoodNotesに読み込む
+GoodNotesに一括で読み込む
 ```
 ※ブックマークレットとはwebブラウザのブックマークからJavaScriptを実行できる機能
 
@@ -34,6 +34,8 @@ GoodNotesに読み込む
 ---
 
 ## セットアップ
+セットアップ動画(学内のみ)
+https://drive.google.com/file/d/1ft3RNz4iXLyv77tU0a6j1WTKRyjVUOt1/view?usp=sharing
 
 ### 1. ブックマークレットをSafariに登録する
 1. [`bookmarklet.txt`](/bookmarklet.txt)をgithub.com上で開きで開き、中身をコピー(Rawの右隣のボタン)
@@ -49,7 +51,7 @@ GoodNotesに読み込む
 1. [`MoodleDownloader.shortcut`](/MoodleDownloader.shortcut)を開き → ダウンロード(Rawの2つ右)
 2. ダウンロードしたものを開く(safariの右上(◯↓)をタップしてファイルを選択)
 
-## 使い方(デモ動画も参照)
+## 使い方([デモ動画](https://drive.google.com/file/d/1Tm9r3tfMvzOOB6Nm2qSNvi9qU9AQ3q0w/view?usp=sharing)も参照)
 
 ### STEP 1 — ブックマークレットを実行する
 
@@ -90,7 +92,8 @@ GoodNotesに読み込む
 1. 画面は変えずにSafari右上の共有ボタン(□↑)をタップ
 2. 右下のもっと見るを押し、下にスクロールMoodleDownloaderを探す
 3. MoodleDownloaderをタップしてダウンロード開始！
-> 実行時に権限の許可のポップアップがでるので、承認してください
+> 実行時に権限の許可のポップアップがでるので、承認してください  
+> スクリプトの実行の許可、クリップボートとwebサイトの読み取り
 
 ### STEP 4 — GoodNotesに読み込む
 
