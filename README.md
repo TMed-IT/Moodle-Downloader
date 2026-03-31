@@ -38,11 +38,11 @@ GoodNotesに一括で読み込む
 https://drive.google.com/file/d/1ft3RNz4iXLyv77tU0a6j1WTKRyjVUOt1/view?usp=sharing
 
 ### 1. ブックマークレットをSafariに登録する
-1. [`bookmarklet.txt`](/bookmarklet.txt)をgithub.com上で開きで開き、中身をコピー(Rawの右隣のボタン)
+1. [`bookmarklet.txt`](/bookmarklet.txt)を開き、中身をコピー(Rawの右隣のボタン)
 2. Safariで任意のページを開き、共有ボタン（□↑）→「ブックマークを追加」
 3. 左上サイドバーを開き、ブックマーク一覧から追加したものを **長押し** →「編集」
 4. 上段タイトルを **「Moodle収集」** などに変更
-5. 下段URLを **全選択して削除** し、1.でコピーしたものをペースト
+5. 下段URLを **すべて削除** し、1.でコピーしたものをペースト
 6. 「完了」をタップ
 
 > URL が `javascript:(async()=>{...})();` という形式になっていれば正しく登録されています。
@@ -93,7 +93,7 @@ https://drive.google.com/file/d/1ft3RNz4iXLyv77tU0a6j1WTKRyjVUOt1/view?usp=shari
 2. 右下のもっと見るを押し、下にスクロールMoodleDownloaderを探す
 3. MoodleDownloaderをタップしてダウンロード開始！
 > 実行時に権限の許可のポップアップがでるので、承認してください  
-> スクリプトの実行の許可、クリップボートとwebサイトの読み取り
+> スクリプトの実行の許可、クリップボートとwebサイトの読み取りの許可が必要です
 
 ### STEP 4 — GoodNotesに読み込む
 
@@ -103,7 +103,8 @@ https://drive.google.com/file/d/1ft3RNz4iXLyv77tU0a6j1WTKRyjVUOt1/view?usp=shari
 
 ## ファイル名のカスタマイズ
 ショートカットを編集することで保存するファイル名をカスタムすることができます。  
-詳しくはショートカット中の後半にあるコメントを参照してください
+詳しくはショートカット中の後半にあるコメントを参照してください  
+(初期設定: セクション名(日付など)+ファイル名)
 
 
 ## JSONの構造
